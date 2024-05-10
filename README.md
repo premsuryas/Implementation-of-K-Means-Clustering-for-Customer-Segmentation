@@ -79,22 +79,16 @@ plt.show()
 ```
 
 ## Output:
+!(![c1](https://github.com/premsuryas/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/147473858/8d1707e8-11a5-4377-b47e-a1ffcc132964)
+)
+!(![c2](https://github.com/premsuryas/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/147473858/af9e2c36-f643-4d3a-be25-fa96de5a3821)
+)
+!(![c3](https://github.com/premsuryas/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/147473858/049b9870-48ad-4112-aef8-7e8f7c11e7d6)
+)
+!(![c4](https://github.com/premsuryas/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/147473858/a2d29d1f-e7da-4dc5-ad8f-50e571725206)
+)
 
-### data.head
 
-![alt text](image.png)
-
-### dat.info
-
-![alt text](image-1.png)
-
-### data.isnull().sum
-
-![alt text](image-2.png)
-
-![alt text](image-3.png)
-
-![alt text](image-4.png)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
